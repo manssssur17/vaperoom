@@ -1,0 +1,104 @@
+body
+{
+  background-size: cover;
+  background-attachment: fixed;
+  font-family: Montserrat;
+}
+
+#text{
+  color: #DC143C;
+  font-size: 40px;
+  text-align: center;
+  margin-top: 300px;
+  text-transform: uppercase;
+  font-family: "Montserrat";
+  font-weight: 700;
+}
+
+h1 {
+  font-family: Montserrat;
+  font-weight: bold;
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+h2 {
+    font-weight: bold;
+    font-size: 3rem;
+    line-height: 1.5;
+}
+
+h3 {
+  font-weight: bold;
+}
+
+p {
+  color: #CC3333;
+}
+
+
+.container-fluid {
+  padding: 3% 15%;
+}
+
+
+.navbar-brand {
+  font-family: Ubuntu;
+  font-weight: bold;
+  font-size: 2rem;
+}
+
+.navbar {
+  padding: 0 0 4.5rem 0;
+}
+
+.nav-item {
+  padding: 0 15px;
+  font-weight: lighter;
+  font-size: 1.2rem;
+}
+
+
+.instagram-button {
+  margin: 3% 5% 0 0;
+}
+
+
+#features {
+  padding: 3% 15%;
+  text-align: center;
+}
+
+.icon {
+  margin-bottom: 1.5rem;
+  color: #ff4c68;
+}
+
+.icon:hover {
+  color: #D3D3D3;
+}
+
+
+#testimonials {
+    padding: 7% 15%;
+    text-align: center;
+
+}
+
+
+.testimonial-img {
+    width: 30%;
+    border-radius: 100%;
+    margin: 20px;
+}
+
+#press {
+
+    text-align: center;
+    padding-bottom: 3%;
+}
+
+.press-logo {
+    width: 15%;
+    margin: 20px 20px 50px;
+}
